@@ -12,9 +12,13 @@ This way only the points of the dial are left out of the bounding boxes. (A cyli
 5. Now find the points that are outside the bounding box and the sphere.
 6. Now this is like inverted plate shaped point cloud. Using PCA get the axis(surface normal) to the bottom of the inverted plate and project the points to this plane.
 Compute convex hull of projected point cloud. Calculate the center by taking mean of the convex hull projected points.
-Scanned point data of hand with and without wrist watch.
+
 <img width="480" alt="Screenshot 2023-07-05 at 2 23 57 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/2f7ec2b2-1ba5-4840-9c07-cfd3085831c8">
-Circular and cubic Bounding box created around the wrist watch.
+
+Scanned point data of hand with and without wrist watch.
 <img width="521" alt="Screenshot 2023-07-05 at 2 24 40 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/e0376462-4fac-4b03-a166-ae028dcdf7cd">
-Cylindrical bounding box created around the wrist watch.
+
+Circular and cubic Bounding box created around the wrist watch.
 <img width="410" alt="Screenshot 2023-07-05 at 2 25 00 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/baf62bba-d55f-45d6-ba64-dbda53656519">
+
+Cylindrical bounding box created around the wrist watch.
