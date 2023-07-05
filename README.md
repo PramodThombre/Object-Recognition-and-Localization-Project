@@ -22,4 +22,5 @@ Scanned point data of hand with and without wrist watch.
 Circular and cubic Bounding box created around the wrist watch.
 
 <img width="410" alt="Screenshot 2023-07-05 at 2 25 00 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/baf62bba-d55f-45d6-ba64-dbda53656519">
+
 Cylindrical bounding box created around the wrist watch.
