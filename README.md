@@ -16,9 +16,9 @@ Compute convex hull of projected point cloud. Calculate the center by taking mea
 <img width="480" alt="Screenshot 2023-07-05 at 2 23 57 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/2f7ec2b2-1ba5-4840-9c07-cfd3085831c8">
 
 Scanned point data of hand with and without wrist watch.
+
 <img width="521" alt="Screenshot 2023-07-05 at 2 24 40 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/e0376462-4fac-4b03-a166-ae028dcdf7cd">
 
 Circular and cubic Bounding box created around the wrist watch.
-<img width="410" alt="Screenshot 2023-07-05 at 2 25 00 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/baf62bba-d55f-45d6-ba64-dbda53656519">
 
-Cylindrical bounding box created around the wrist watch.
+<img width="410" alt="Screenshot 2023-07-05 at 2 25 00 AM" src="https://github.com/PramodThombre/Object-Recognition-and-Localization-Project/assets/61206092/baf62bba-d55f-45d6-ba64-dbda53656519">
