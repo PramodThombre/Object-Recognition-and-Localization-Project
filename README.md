@@ -3,6 +3,7 @@ Finding top face of the watch from a point cloud data of a scanned wrist and wat
 
 This file has 3 methods of finding a top face of the watch dial.
 
+Below are the steps followed to the top face using method 1.
 1. First align the clean_wrist mesh to the worn_wrist mesh so that all the cordinates will be in the reference of worn_wrist using ICP (Iterative Closest Point) function from trimesh library.
 2. Using sklearn.neighbors LocalOutlierFactor to get the points outside the wrist which will be points of the watch.
 3. Using PCA to get the major axis of the Outlier points. Get the radius, height and the transformation matrix using the minimum bounding cylinder to the aligned clean_wrist mesh. 
